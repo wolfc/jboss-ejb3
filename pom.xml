@@ -119,6 +119,7 @@
       <module>effigy</module>
       <module>endpoint</module>
       <module>interceptors</module>
+      <module>testsuite</module>
       <module>tx</module>
    </modules>
 
